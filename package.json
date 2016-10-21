@@ -1,0 +1,43 @@
+{
+  "author": {
+    "name": "Gareth Hughes"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "memoizee": "^0.3.10"
+  },
+  "description": "Memoize(e) a function which returns a promise, which clears its cache once the promise has resolved",
+  "devDependencies": {},
+  "directories": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "promizee",
+  "optionalDependencies": {},
+  "scripts": {},
+  "version": "1.0.1",
+  "gitHead": "9b4f5a058956905033b598359c75e195ea677ce9",
+  "_id": "promizee@1.0.1",
+  "_shasum": "131e4b6090a0a61a9649604921d0a3ea13c9ec61",
+  "_from": "promizee@*",
+  "_npmVersion": "3.8.9",
+  "_nodeVersion": "6.2.0",
+  "_npmUser": {
+    "name": "flamescape",
+    "email": "g_npm@flamescape.com"
+  },
+  "maintainers": [
+    {
+      "name": "flamescape",
+      "email": "g_npm@flamescape.com"
+    }
+  ],
+  "dist": {
+    "shasum": "131e4b6090a0a61a9649604921d0a3ea13c9ec61",
+    "tarball": "https://registry.npmjs.org/promizee/-/promizee-1.0.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/promizee-1.0.1.tgz_1464965215176_0.7778554195538163"
+  },
+  "_resolved": "https://registry.npmjs.org/promizee/-/promizee-1.0.1.tgz"
+}
